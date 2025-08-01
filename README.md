@@ -7,9 +7,9 @@ and loyalty card usage, highlighting key factors driving coffee sales.
 ---
 
 ## 📌 Key Analysis & Components
-- **Total Sales Over Time** - Compares the average income of male and female customers, segmented by those who purchased bikes and those who did not.
-- **Sales by Country** - Analyzes bike sales performance across different commute distance ranges.
-- **Top 5 Customers** - Highlights bike sales distribution across Europe, North America, and the Pacific region.
+- **Total Sales Over Time** - Highlights the sales trends of Arabica, Excelsa, Liberica, and Robusta over time.
+- **Sales by Country** - Shows coffee sales performance across the United States, Ireland, and the United Kingdom.
+- **Top 5 Customers** - Identifies the top five customers contributing to coffee sales.
 ### Filters
 - **Time Period (Years, Quarters, Months, Days)**
 - **Roast Type**
