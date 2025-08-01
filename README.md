@@ -1,7 +1,7 @@
 # *Coffee Sales Analysis*
 
 ## 📌 Project Overview
-Conducted data analysis in Excel on coffee sales data to examine sales trends over time, compare performance across countries, and identify top customers with respect to roast type, coffee size,
+Conducted data analysis in Excel on coffee sales data to examine sales trends over time, performance across countries, and identify top customers with respect to roast type, coffee size,
 and loyalty card usage, highlighting key factors driving coffee sales.
 
 ---
